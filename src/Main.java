@@ -13,6 +13,18 @@ public class Main {
         qualquer.falar();
         System.out.println(qualquer.falar("oi"));
 
+        // Criar novos objetos
+        // Declarar objetos
+        Pessoa rainha;
+        // instanciar objetos
+        rainha = new Pessoa();
+        // Definir forma do objeto
+        rainha.nome = "Tina";
+        rainha.sobrenome = "Tunner";
+        // Definição do comportamento
+        rainha.falar();
+        rainha.comer();
+
 
     }
 }

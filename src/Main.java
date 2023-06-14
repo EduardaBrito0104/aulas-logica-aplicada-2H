@@ -1,5 +1,5 @@
 public class Main {
-    public static void main(String[] args) {
+        public static void main(String[] args) {
         // Aula introdutoria de Orientação á Objetos
         //Declaração de objeto
         Pessoa adao;
